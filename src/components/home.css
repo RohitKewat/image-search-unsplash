@@ -1,0 +1,38 @@
+.img{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    cursor: pointer;
+}
+.main-container{
+    padding-right: 4rem;
+    padding: 1rem;
+    padding-right: 4rem;
+    align-items: center;
+    text-align: center;
+}
+input{
+    width: 405px;
+}
+body{
+    background-color: grey;
+}
+.book-mark{
+    border: 2px solid black;
+    background-color: azure;
+
+}
+.bookmark{
+    height: 200px;
+    width: 200px;
+    padding: .5rem;
+}
+.bookbtn{
+    background-color: cornflowerblue;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: bolder;
+    color: seashell;
+    position: relative;
+    left: 200px;
+}
